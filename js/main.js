@@ -1,22 +1,9 @@
 /* -------------------------------------------------------------------
- * Template Name         : Fotor - Personal Portfolio
- * Theme Author Name     : Yucel Yilmaz
- * Created Date          : 01 March 2020
- * Version               : 1.0
+
 ------------------------------------------------------------------- */
 
 /*------------------------------------------------------------------
-[Table of contents]
-* 01.Preloader
-* 02.Wow Js
-* 03.Navbar Menu
-* 04.Resume Tab
-* 05.Counter Up
-* 06.ScrollIt
-* 07.Magnific Popup
-* 08.Isotope Gallery
-* 09.Owl Carousel
-* 10.Contact Form
+
 ------------------------------------------------------------------- */
 
 

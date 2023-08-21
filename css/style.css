@@ -1,47 +1,5 @@
 /* -------------------------------------------------------------------
-   Base                               
-   ------------------------ /
- * 01.Base
- * 02.Typography
- * 03.Helper Class
-   ------------------------ /
-   Components                               
-   ------------------------ /
- * 04.Buttons  
- * 05.Animations 
- * 06.Form(Input, Comment)
- * 07.Pagination 
- * 08.Preloader
-   ------------------------ /
-   Layout                               
-   ------------------------ /
- * 09.Header
- * 10.Hero
- * 11.About
- * 12.Experience
- * 13.Counter
- * 14.Services
- * 15.Portfolio
- * 16.Testimonial
- * 17.Team
- * 18.Pricing
- * 19.Latest Blog
- * 20.Contact
- * 21.Footer
- * 22.Breadcrumb
-   ------------------------ /
-   Home Pages                              
-   ------------------------ /
- * 23.Home Slider
- * 24.Home Page Youtube Video
- * 25.Home Particles
- * 26.Home Glitch Img 
-   ------------------------ /
-   Inner Pages                              
-   ------------------------ /
- * 27.Portfolio Details
- * 28.Blog Single  
- * 29.Intro 
+  
 
 ------------------------------------------------------------------- */
 /* ---------------------------------------------------------------- */
@@ -2693,4 +2651,3 @@ background: #000;
     font-size: 1rem;
   }
 }
-/*# sourceMappingURL=style.css.map */
